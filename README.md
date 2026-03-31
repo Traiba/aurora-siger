@@ -52,5 +52,12 @@ Durante a simulação, o sistema gera eventos aleatórios que testam a resiliên
 ## ⚖️ Reflexão Ética e Sustentável
 Este projeto integra conceitos de **ESG e responsabilidade socioambiental**. A gestão eficiente de energia na Aurora Siger reflete a necessidade de tecnologias que respeitem os limites de recursos, garantindo que a expansão interplanetária seja feita de forma ética e sustentável.
 
+## Print da execução:
+<img width="731" height="682" alt="image" src="https://github.com/user-attachments/assets/7672f563-aab3-4f5b-967f-fc57854009b5" />
+<img width="752" height="471" alt="image" src="https://github.com/user-attachments/assets/2299ace3-4e13-4523-8d12-ce9f2d12d62a" />
+
 ---
 **Desenvolvido como parte da Atividade Integradora - Fase 1.**
+**GABRIEL TAVARES MARTINS DE OLIVEIRA - RM573718**
+**MATHEUS HENRIQUE PEDROZO TRAIBA - RM571817**
+**PEDRO HENRIQUE DE LIMA COSTA - RM573008**
